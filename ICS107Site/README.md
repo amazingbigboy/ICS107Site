@@ -1,4 +1,7 @@
-# Windward Community College ICS107
+# Windward Community College
+# Fall 2025
+# ICS107 Web Programming
 #
-# ICS107Site
+## ICS107Site
+
 
