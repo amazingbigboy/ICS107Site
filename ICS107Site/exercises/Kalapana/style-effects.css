@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */ 
+
+body {
+	margin-right: auto;
+	margin-left: auto;
+	min-width: 700px;
+	max-width: 950px;
+}

@@ -1,0 +1,105 @@
+﻿
+<style type="text/css">
+#poem {margin-left:5em; padding-left: 3em; text-indent: -1em;}
+pre {margin-top:0; margin-bottom:0; font-family:Georgia, "Times New Roman", Times, serif;}
+#sec2, #sec3, #sec4, #sec5, #sec6, #sec7, #sec8, #sec9 {font-size:.95em;}
+</style>
+
+<p>Chapter 3:   A Caucus-Race and a Long Tale</p>
+<p>They were indeed a queer-looking party that assembled on the bank—the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross and uncomfortable.</p>
+<p>The first question, of course, was how to get dry again. They had a consultation about this and after a few minutes, it seemed quite natural to Alice to find herself talking familiarly with them, as if she had known them all her life.</p>
+<p><img src="bookimages/mouse.gif" alt="Alice, the birds, and other animals gather around mouse as he speaks to them." width="384" height="292"  /></p><p>At last the Mouse, who seemed to be a person of some authority among them, called out, &ldquo;Sit down, all of you, and <br />
+listen to me! I'll soon make you dry enough!&rdquo; They all sat down at once, in a large ring, with the Mouse in the middle.</p>
+<p>&ldquo;Ahem!&rdquo; said the Mouse with an important air. &ldquo;Are you all ready? This is the driest thing I know. Silence all 'round, if you please! 'William the Conqueror, whose cause was favored by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the Earls of Mercia and Northumbria'—&rdquo;</p>
+<p>&ldquo;Ugh!&rdquo; said the Lory, with a shiver.</p>
+<p>&ldquo;—'And even Stigand, the patriotic archbishop of Canterbury, found it advisable'—&rdquo;</p>
+<p>&ldquo;Found what?&rdquo; said the Duck.</p>
+<p>&ldquo;Found it,&rdquo; the Mouse replied rather crossly; &ldquo;of course, you know what 'it' means.&rdquo;</p>
+<p>&ldquo;I know what 'it' means well enough, when I find a thing,&rdquo; said the Duck; &ldquo;it's generally a frog or a worm. The question is, what did the archbishop find?&rdquo;</p>
+<p>The Mouse did not notice this question, but hurriedly went on, &ldquo;'—found it advisable to go with Edgar Atheling to meet William and offer him the crown.'—How are you getting on now, my dear?&rdquo; it continued, turning to Alice as it spoke.</p>
+<p>&ldquo;As wet as ever,&rdquo; said Alice in a melancholy tone; &ldquo;it doesn't seem to dry me at all.&rdquo;</p>
+<p>&ldquo;In that case,&rdquo; said the Dodo solemnly, rising to its feet, &ldquo;I move that the meeting adjourn, for the immediate adoption of more energetic remedies—&rdquo;</p>
+<p>&ldquo;Speak English!&rdquo; said the Eaglet. &ldquo;I don't know the meaning of half those long words, and, what's more, I don't believe you do either!&rdquo;</p>
+<p>&ldquo;What I was going to say,&rdquo; said the Dodo in an offended tone, &ldquo;is that the best thing to get us dry would be a Caucus-race.&rdquo;</p>
+<p>&ldquo;What is a Caucus-race?&rdquo; said Alice.</p>
+<p>&ldquo;Why,&rdquo; said the Dodo, &ldquo;the best way to explain it is to do it.&rdquo; First it marked out a race-course, in a sort of circle, and then all the party were placed along the course, here and there. There was no &ldquo;One, two, three and away!&rdquo; but they began running when they liked and left off when they liked, so that it was not easy to know when the race was over. However, when they had been running half an hour or so and were quite dry again, the Dodo suddenly called out, &ldquo;The race is over!&rdquo; and they all crowded 'round it, panting and asking, &ldquo;But who has won?&rdquo;</p>
+<p>This question the Dodo could not answer without a great deal of thought. At last it said, &ldquo;Everybody has won, and all must have prizes.&rdquo;</p>
+<p>&ldquo;But who is to give the prizes?&rdquo; quite a chorus of voices asked.</p>
+<p>&ldquo;Why, she, of course,&rdquo; said the Dodo, pointing to Alice with one finger; and the whole party at once crowded 'round her, calling out, in a confused way, &ldquo;Prizes! Prizes!&rdquo;</p>
+<p>Alice had no idea what to do, and in despair she put her hand into her pocket and pulled out a box of comfits (luckily the salt-water had not got into it) and handed them 'round as prizes. There was exactly one a-piece, all 'round.</p>
+<p>The next thing was to eat the comfits; this caused some noise and confusion, as the large birds complained that they could not taste theirs, and the small ones choked and had to be patted on the back. However, it was over at last and they sat down again in a ring and begged the Mouse to tell them something more.</p>
+<p>&ldquo;You promised to tell me your history, you know,&rdquo; said Alice, &ldquo;and why it is you hate—C and D,&rdquo; she added in a whisper, half afraid that it would be offended again.</p>
+<p>&ldquo;Mine is a long and a sad tale!&rdquo; said the Mouse, turning to Alice and sighing.</p>
+<p>&ldquo;It is a long tail, certainly,&rdquo; said Alice, looking down with wonder at the Mouse's tail, &ldquo;but why do you call it sad?&rdquo; And she kept on puzzling about it while the Mouse was speaking, so that her idea of the tale was something like this:</p>
+<div id="poem">
+<div id="sec1">
+<pre>
+  "Fury said to 
+   a mouse, That
+       he met in the
+          house, 'Let
+           us both go
+                to law: I</pre>
+<div id="sec2">
+  <pre>
+                     will prosecute
+                you.&mdash;
+             Come, I'll
+         take no denial:</pre>
+<div id="sec3">
+  <pre>
+           We must have
+         the trial;
+      For really
+    this morning
+ I've</pre>
+<div id="sec4">
+  <pre>
+    nothing
+     to do.'
+           Said the
+                 mouse to</pre>
+<div id="sec5">
+<pre>
+                            the cur,
+                               'Such a
+                                       trial, dear
+                                             sir, With</pre>
+<div id="sec6">
+  <pre>
+                                                            no jury
+                                                          or judge,
+                                                          would
+                                                    be wasting
+                                             our</pre>
+<div id="sec7">
+  <pre>
+                                       breath.'
+                          'I'll be
+                    judge,</pre>
+<div id="sec8"> <pre>
+           I'll be
+          jury,'
+ said
+  cunning
+        old
+             Fury;</pre>
+<div id="sec9">
+  <pre>
+                         'I'll
+                                  try
+                                        the
+                                              whole
+                                                           cause,
+                                                            and
+                                                  condemn
+                                         you to
+                              death.'"</pre>
+</div></div></div></div></div></div></div></div></div></div>
+<p>&ldquo;You are not attending!&rdquo; said the Mouse to Alice, severely. &ldquo;What are you thinking of?&rdquo;</p>
+<p>&ldquo;I beg your pardon,&rdquo; said Alice very humbly, &ldquo;you had got to the fifth bend, I think?&rdquo;</p>
+<p>&ldquo;You insult me by talking such nonsense!&rdquo; said the Mouse, getting up and walking away.</p>
+<p>&ldquo;Please come back and finish your story!&rdquo; Alice called after it. And the others all joined in chorus, &ldquo;Yes, please do!&rdquo; But the Mouse only shook its head impatiently and walked a little quicker.</p>
+<p>&ldquo;I wish I had Dinah, our cat, here!&rdquo; said Alice. This caused a remarkable sensation among the party. Some of the birds hurried off at once, and a Canary called out in a trembling voice, to its children, &ldquo;Come away, my dears! It's high time you were all in bed!&rdquo; On various pretexts they all moved off and Alice was soon left alone.</p>
+<p>&ldquo;I wish I hadn't mentioned Dinah! Nobody seems to like her down here and I'm sure she's the best cat in the world!&rdquo; Poor Alice began to cry again, for she felt very lonely and low-spirited. In a little while, however, she again heard a little pattering of footsteps in the distance and she looked up eagerly.</p>
+
